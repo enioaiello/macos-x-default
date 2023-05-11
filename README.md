@@ -20,16 +20,24 @@ defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 > Si vous avez une installation fraîche de macOS récente, téléchargez les logiciels suivants via le **Mac App Store**.
 
+**Logiciels a installer**
+- Pages
+- Numbers
+- Keynote
+- iMovie
+- GarageBand
+- Xcode
+
 > Si vous avez un système d'exploitation qui n'est plus compatible avec les dernières mises à jour d'applications, utilisez les prochains liens.
 
 **Logiciels à installés (avec leurs liens)**
 
-- Pages [télécharger la version pour 10.13.6 est ultérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
-- Numbers [télécharger la version pour 10.13.6 est ultérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
-- Keynote [télécharger la version pour 10.13.6 est ultérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
-- iMovie [télécharger la version pour 10.13.6 est ultérieur ici](http://www.mediafire.com/file/1q5cob8ghtglii0/Apple+iMovie+v10.1.6+Final+Patched.zip/file)
-- Garageband [télécharger la version pour 10.13.6 est ultérieur ici](https://garageband.fr.malavida.com/mac/)
-- Xcode [télécharger la version pour 10.13.6 est ultérieur ici](https://developer.apple.com/xcode/resources/)
+- Pages [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
+- Numbers [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
+- Keynote [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
+- iMovie [télécharger la version pour 10.13.6 est antérieur ici](http://www.mediafire.com/file/1q5cob8ghtglii0/Apple+iMovie+v10.1.6+Final+Patched.zip/file)
+- Garageband [télécharger la version pour 10.13.6 est antérieur ici](https://garageband.fr.malavida.com/mac/)
+- Xcode [télécharger la version pour 10.13.6 est antérieur ici](https://developer.apple.com/xcode/resources/)
 
 ### Logiciels recommandés
 
@@ -45,3 +53,13 @@ Accédez à [FOSSHUB](https://www.fosshub.com/) et sélectionnez votre **logicie
 
 > Si vous ne savez pas quelles versions prendre pour votre système d'exploitation, cherchez simplement `[nom application] last version for [votre version de macos]`.
 
+## Désactiver la protection
+Si un programme est détecté comme "endommagé" par macOS, exécutez simplement cette commande :
+```
+xattr -cr [emplacement de l'application ou glissez et déposez la simplement sur la commande]
+```
+
+## Télécharger les fonds d'écrans
+> Recommandation : Créez un dossier nommé "Fonds d'écrans" dans votre dossier personnel ou dans votre dossier **Images**. Ensuite déposez le dossier dans vos préférences systèmes afin de simplifier le chagement de fonds d'écrans.
+
+Téléchargez les fonds d'écrans [ici](https://enioaiello.github.io/background-library). Appliquez celui de votre choix.
