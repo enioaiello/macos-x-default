@@ -1,11 +1,12 @@
-# Bienvenue sur macOS
-## Étapes après l'installation
+![img](./macos.png)
+# 👋 Bienvenue sur macOS
+## ➡️ Étapes après l'installation
 - Télécharger **Pages**, **Numbers**, **Keynote**, **iMovie**, **GarageBand**, **Xcode**
 - Télécharger les mises à niveau **macOS**
 - Effectuer les commandes qui suivent sur [cette partie](#commandes)
 - Télécharger les [fonds d'écrans](https://enioaiello.github.io/background-library)
 
-## Commandes
+## 🤖 Commandes
 Réinitialiser le Dock
 ```
 defaults delete com.apple.dock; killall Dock
@@ -15,12 +16,12 @@ Réinitiliaser le Launchpad
 defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 ```
 
-## Installer les logiciels de bases
-### Logiciel de base
+## 🎈 Installer les logiciels de bases
+### ✨ Logiciel de base
 
 > Si vous avez une installation fraîche de macOS récente, téléchargez les logiciels suivants via le **Mac App Store**.
 
-**Logiciels a installer**
+📥 **Logiciels a installer**
 - Pages
 - Numbers
 - Keynote
@@ -30,7 +31,7 @@ defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 > Si vous avez un système d'exploitation qui n'est plus compatible avec les dernières mises à jour d'applications, utilisez les prochains liens.
 
-**Logiciels à installés (avec leurs liens)**
+📥 **Logiciels à installés (avec leurs liens)**
 
 - Pages [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
 - Numbers [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
@@ -39,12 +40,12 @@ defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 - Garageband [télécharger la version pour 10.13.6 est antérieur ici](https://garageband.fr.malavida.com/mac/)
 - Xcode [télécharger la version pour 10.13.6 est antérieur ici](https://developer.apple.com/xcode/resources/)
 
-### Logiciels recommandés
+### ✅ Logiciels recommandés
 
 Utiliser [macapps](https://macapps.link) pour télécharger tout ces logiciels.\
 Si vous avez besoins d'Office, téléchargez la dernière version compatible pour votre **macOS** sur [MacAdmin](https://macadmins.software/), une fois installé, ne l'exécutez pas. Utilisez ensuite [ce patch](https://github.com/alsyundawy/Microsoft-Office-For-MacOS), prenez la version adaptée à votre système. Si vous avez un système trop ancien, cliquez [ici](#installer-les-anciennes-versions-des-logiciels).
 
-### Installer les anciennes versions des logiciels
+### 📥 Installer les anciennes versions des logiciels
 > Cette partie n'est pas encore complète, cependant, vous pouvez déjà commencer à lire !
 
 Si c'est un logiciel dit **FOSS**, continuez. Sinon passez cette étape.\
