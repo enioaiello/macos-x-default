@@ -43,7 +43,7 @@ defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 ### ✅ Logiciels recommandés
 
 Utiliser [macapps](https://macapps.link) pour télécharger tout ces logiciels.\
-Si vous avez besoins d'Office, téléchargez la dernière version compatible pour votre **macOS** sur [MacAdmin](https://macadmins.software/), une fois installé, ne l'exécutez pas. Utilisez ensuite [ce patch](https://github.com/alsyundawy/Microsoft-Office-For-MacOS), prenez la version adaptée à votre système. Si vous avez un système trop ancien, cliquez [ici](#installer-les-anciennes-versions-des-logiciels).
+Si vous avez besoins d'Office, téléchargez la dernière version compatible pour votre **macOS** sur [MacAdmin](https://macadmins.software/), une fois installé, ne l'exécutez pas. Utilisez ensuite [ce patch]([https://github.com/alsyundawy/Microsoft-Office-For-MacOS](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a)), prenez la version adaptée à votre système. Si vous avez un système trop ancien, cliquez [ici](#installer-les-anciennes-versions-des-logiciels).
 
 ### 📥 Installer les anciennes versions des logiciels
 > Cette partie n'est pas encore complète, cependant, vous pouvez déjà commencer à lire !
