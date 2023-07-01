@@ -54,17 +54,17 @@ Accédez à [FOSSHUB](https://www.fosshub.com/) et sélectionnez votre **logicie
 
 > Si vous ne savez pas quelles versions prendre pour votre système d'exploitation, cherchez simplement `[nom application] last version for [votre version de macos]`.
 
-## Désactiver la protection
+## 🛡️ Désactiver la protection
 Si un programme est détecté comme "endommagé" par macOS, exécutez simplement cette commande :
 ```
 xattr -cr [emplacement de l'application ou glissez et déposez la simplement sur la commande]
 ```
 
-## Télécharger les fonds d'écrans
+## 🔗 Télécharger les fonds d'écrans
 > Recommandation : Créez un dossier nommé "Fonds d'écrans" dans votre dossier personnel ou dans votre dossier **Images**. Ensuite déposez le dossier dans vos préférences systèmes afin de simplifier le chagement de fonds d'écrans.
 Téléchargez  les fonds d'écrans [ici](https://enioaiello.github.io/background-library). Appliquez celui de votre choix.
 
-## Icônes Big Sur
+## 🎨 Icônes Big Sur
 Si vous êtes sur macOS 11 et suppérieur, vous aurez sans doutes besoins de changer certaines icônes d'**anciens logiciels** qui sont sans doutes bloqués sur des versions ultérieures.\
 Voici le lien pour changer les icônes : [https://macosicons.com/](https://macosicons.com/)\
 Une fois votre icône téléchargée, ouvrez la avec **Aperçu** puis copiez l'icône.\
