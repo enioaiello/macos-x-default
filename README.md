@@ -1,5 +1,6 @@
 ![img](./macos.png)
 # 👋 Bienvenue sur macOS
+
 ## ➡️ Étapes après l'installation
 - Télécharger **Pages**, **Numbers**, **Keynote**, **iMovie**, **GarageBand**, **Xcode**
 - Télécharger les mises à niveau **macOS**
@@ -69,3 +70,15 @@ Si vous êtes sur macOS 11 et suppérieur, vous aurez sans doutes besoins de cha
 Voici le lien pour changer les icônes : [https://macosicons.com/](https://macosicons.com/)\
 Une fois votre icône téléchargée, ouvrez la avec **Aperçu** puis copiez l'icône.\
 Et pour finir, ouvrez les informations de votre application (avec le raccourcis : **Cmd + I**) et cliquez sur l'icône de l'application puis collez la avec **Cmd + V**.
+
+## 💽 Recevoir des mises à jour sur les anciens Mac
+Vous pouvez utiliser [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) pour patcher d'anciens Macs enfin de pouvoir utiliser **Big Sur** et ultérieur sur de anciens Macs.
+> ⚠️ **Les performances ne sont pas optimales sur ce patch pour certains Macs, comme par exemple les drivers vidéos de l'iMac 2011 (signalé par kik07l)**
+### 💻 Mac pour commencer
+
+Si vous voulez un Mac pas trop cher et qui fait encore très bien le travail, j'utilises un **MacBook Pro mid2012** entièrement patché sous **Ventura 13.4.1** avec **OpenCore Legacy Patcher** et cela marche très bien, tout est pris en charge ! 
+
+### 🔰 Recommandations pour tout faire tourner
+- Au moins 8 Go de RAM
+- Un SSD de 256 Go
+- Un processeur Intel Core i5
