@@ -33,12 +33,12 @@ defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 📥 **Logiciels à installés (avec leurs liens)**
 
-- Pages [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
-- Numbers [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
-- Keynote [télécharger la version pour 10.13.6 est antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
-- iMovie [télécharger la version pour 10.13.6 est antérieur ici](http://www.mediafire.com/file/1q5cob8ghtglii0/Apple+iMovie+v10.1.6+Final+Patched.zip/file)
-- Garageband [télécharger la version pour 10.13.6 est antérieur ici](https://garageband.fr.malavida.com/mac/)
-- Xcode [télécharger la version pour 10.13.6 est antérieur ici](https://developer.apple.com/xcode/resources/)
+- Pages [télécharger la version pour 10.13.6 et antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
+- Numbers [télécharger la version pour 10.13.6 et antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
+- Keynote [télécharger la version pour 10.13.6 et antérieur ici](https://drive.google.com/file/d/1OGG6yHOIAsZZYPcR434KsZ0qzmvJYwaq/view?usp=sharing)
+- iMovie [télécharger la version pour 10.13.6 et antérieur ici](http://www.mediafire.com/file/1q5cob8ghtglii0/Apple+iMovie+v10.1.6+Final+Patched.zip/file)
+- Garageband [télécharger la version pour 10.13.6 et antérieur ici](https://garageband.fr.malavida.com/mac/)
+- Xcode [télécharger la version pour 10.13.6 et antérieur ici](https://developer.apple.com/xcode/resources/)
 
 ### ✅ Logiciels recommandés
 
